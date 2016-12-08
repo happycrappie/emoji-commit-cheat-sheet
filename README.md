@@ -19,12 +19,11 @@ Lots of people prepared their own Emoji Cheat Sheet. I've came up with this, but
 Commit Type | Emoji
 ----------  | -------------
 Initial Commit | :tada: `:tada:`
-Go Live | :rocket: `:rocket:`
 Bugfix | :bug: `:bug:`
+Go Live | :rocket: `:rocket:`
 Refactoring | :package: `:package:`
 Documentation | :books: `:books:`
 Content Change | :pencil2: `:pencil2:`
-Typos | :see_no_evil: `:see_no_evil:`
 Performance | :racehorse: `:racehorse:`
 Cosmetic | :lipstick: `:lipstick:`
 Responsiveness | :iphone: `:iphone:`
@@ -33,10 +32,18 @@ Tests | :rotating_light: `:rotating_light:`
 Deprecation | :poop: `:poop:`
 Delete Code | :fire: `:fire:`
 Work In Progress (WIP) | :construction: `:construction:`
-New Idea! | :bulb: `:bulb:`
-"It should not be working, but it is..." | :four_leaf_clover: `:four_leaf_clover:`
-Cool Shit? Hell yeah! | :sunglasses: `:sunglasses:`
 Updade Dependencies | :arrow_up: `:arrow_up:`
 Downgrade Dependencies | :arrow_down: `:arrow_down:`
+
+Funny Ones | Emoji
+---------- | ----------
+New Idea! | :bulb: `:bulb:`
+Typos | :see_no_evil: `:see_no_evil:`
 Friday Night In | :fu: `:fu:`
+Cool Shit? Hell yeah! | :sunglasses: `:sunglasses:`
+"It should not be working, but it is..." | :four_leaf_clover: `:four_leaf_clover:`
+Last Commit of The Day! | :beer: `:beer:`
+Compiled/Public folder | :floppy_disk: `:floppy_disk:`
+Analytics | :bar_chart: `:bar_chart:`
+"Call 911"! Dude's ODing on Commits! | :phone: `:phone:`
 Other | [Be creative](http://www.emoji-cheat-sheet.com/)
