@@ -19,19 +19,19 @@ Lots of people prepared their own Emoji Cheat Sheet. I've came up with this, but
 Commit Type | Emoji
 ----------  | -------------
 Initial Commit | :tada: `:tada:`
-Bugfix | :bug: `:bug:`
 Go Live | :rocket: `:rocket:`
+Bugfix | :bug: `:bug:`
 Refactoring | :package: `:package:`
 Documentation | :books: `:books:`
-Content Change | :pencil2: `:pencil2:`
-Performance | :racehorse: `:racehorse:`
-Cosmetic | :lipstick: `:lipstick:`
+Content | :pencil2: `:pencil2:`
+Cosmetic (CSS) | :lipstick: `:lipstick:`
 Responsiveness | :iphone: `:iphone:`
-Tooling | :wrench: `:wrench:`
+Performance | :racehorse: `:racehorse:`
+Work In Progress (WIP) | :construction: `:construction:`
 Tests | :rotating_light: `:rotating_light:`
 Deprecation | :poop: `:poop:`
 Delete Code | :fire: `:fire:`
-Work In Progress (WIP) | :construction: `:construction:`
+Tooling | :wrench: `:wrench:`
 Updade Dependencies | :arrow_up: `:arrow_up:`
 Downgrade Dependencies | :arrow_down: `:arrow_down:`
 
