@@ -24,6 +24,7 @@ Bugfix | :bug: `:bug:`
 Refactoring | :package: `:package:`
 Documentation | :books: `:books:`
 Content Change | :pencil2: `:pencil2:`
+Typos | :see_no_evil: `:see_no_evil:`
 Performance | :racehorse: `:racehorse:`
 Cosmetic | :lipstick: `:lipstick:`
 Responsiveness | :iphone: `:iphone:`
@@ -33,6 +34,8 @@ Deprecation | :poop: `:poop:`
 Delete Code | :fire: `:fire:`
 Work In Progress (WIP) | :construction: `:construction:`
 New Idea! | :bulb: `:bulb:`
+"It should not be working, but it is..." | :four_leaf_clover: `:four_leaf_clover:`
+Cool Shit? Hell yeah! | :sunglasses: `:sunglasses:`
 Updade Dependencies | :arrow_up: `:arrow_up:`
 Downgrade Dependencies | :arrow_down: `:arrow_down:`
 Friday Night In | :fu: `:fu:`
