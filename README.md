@@ -51,3 +51,5 @@ Compiled/Public folder | :floppy_disk: `:floppy_disk:`
 Analytics | :bar_chart: `:bar_chart:`
 "Call 911"! Dude's ODing on Commits! | :phone: `:phone:`
 Other | [Be creative](http://www.emoji-cheat-sheet.com/)
+
+Based on (dannyfritz)[https://github.com/dannyfritz]'s repo.
