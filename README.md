@@ -35,6 +35,10 @@ Tooling | :wrench: `:wrench:`
 Updade Dependencies | :arrow_up: `:arrow_up:`
 Downgrade Dependencies | :arrow_down: `:arrow_down:`
 
+### Now, for the adventurous ones...
+
+If you consider yourself adventurous enough - _and I mean_ _**hard fucking core**_ - BE CREATIVE!
+
 Funny Ones | Emoji
 ---------- | ----------
 New Idea! | :bulb: `:bulb:`
